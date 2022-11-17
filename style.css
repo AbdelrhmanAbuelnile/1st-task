@@ -9,6 +9,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 section{
     padding: 25px 200px;
     display: flex;
