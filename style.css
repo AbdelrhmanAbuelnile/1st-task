@@ -43,7 +43,9 @@ h3 {
 .main {
     width: 100vw;
     height: 500px;
-    background: url("site Images/moon-night-scenery-riding-bike-uhdpaper.com-4K-6.2510.jpg") no-repeat ;
+    /* background: url("site Images/moon-night-scenery-riding-bike-uhdpaper.com-4K-6.2510.jpg") no-repeat ; */
+    background-image: url("site Images/moon-night-scenery-riding-bike-uhdpaper.com-4K-6.2510.jpg");
+    background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover; 
 }
